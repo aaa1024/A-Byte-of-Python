@@ -6,16 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="648eb14c-0739-4510-96f6-e47132d470f6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UNICODE.py" afterPath="$PROJECT_DIR$/UNICODE.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aaaaa.py" afterPath="$PROJECT_DIR$/aaaaa.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ds_using_list.py" afterPath="$PROJECT_DIR$/ds_using_list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exception_handle.py" afterPath="$PROJECT_DIR$/exception_handle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exception_raise.py" afterPath="$PROJECT_DIR$/exception_raise.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/io_input.py" afterPath="$PROJECT_DIR$/io_input.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/io_pickle.py" afterPath="$PROJECT_DIR$/io_pickle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/io_using_file.py" afterPath="$PROJECT_DIR$/io_using_file.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oop_subclass.py" afterPath="$PROJECT_DIR$/oop_subclass.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonebook2.py" afterPath="$PROJECT_DIR$/phonebook2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +33,8 @@
       <file leaf-file-name="phonebook2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phonebook2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="575">
+              <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -62,8 +53,8 @@
       <file leaf-file-name="aaaaa.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aaaaa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="207">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -201,8 +192,8 @@
         <option value="$PROJECT_DIR$/backup_ver2.py" />
         <option value="$PROJECT_DIR$/exception_handle.py" />
         <option value="$PROJECT_DIR$/ds_using_list.py" />
-        <option value="$PROJECT_DIR$/aaaaa.py" />
         <option value="$PROJECT_DIR$/phonebook2.py" />
+        <option value="$PROJECT_DIR$/aaaaa.py" />
       </list>
     </option>
   </component>
@@ -404,11 +395,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17489271" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17703862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="29" width="1920" height="1001" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -760,14 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aaaaa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/while.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -776,10 +760,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aaaaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phonebook2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="575">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding />
         </state>
       </provider>
