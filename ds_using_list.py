@@ -3,9 +3,9 @@ shoplist=['apple','mangou','carrot','bananna']
 
 print('I have',len(shoplist),'items to purchase.')
 
-print('These item are:',end='')
+print('These item are:',end=' ')
 for item in shoplist:
-    print(item,end=' ')
+    print(item,end='')
 
 print('\nI also have to buy rice.')
 shoplist.append('rice')
